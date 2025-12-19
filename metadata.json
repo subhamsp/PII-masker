@@ -1,0 +1,7 @@
+{
+  "name": "PII Audio Masker",
+  "description": "An advanced audio processing tool that uses AI to detect and mask personally identifiable information in recordings.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
